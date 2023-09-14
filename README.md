@@ -1,3 +1,11 @@
+how to run 
+1. clone the project from : https://github.com/rifatron999/tpassesment 
+2. create an empty database named talent_pro_assignment
+3. run  `composer dump-autolaod` 
+4. run `php artisan migrate`
+5. run `php artisan ser`
+6. check the API DOC for postman support  https://documenter.getpostman.com/view/13205470/2s9YC5wWu6 
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
